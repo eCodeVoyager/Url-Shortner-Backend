@@ -34,7 +34,6 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          DATABASE_URI: "mongodb+srv://ehsan:ehsan144@url-shortnerdb.gheetoq.mongodb.net/?retryWrites=true&w=majority"
           
           
           
