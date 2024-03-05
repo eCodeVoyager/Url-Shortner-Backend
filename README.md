@@ -1,6 +1,6 @@
-# Shortner Backend
+# URL shortner Backend
 
-Welcome to the Shortner Backend project! This repository contains the backend implementation for a URL shortening service. Simplify long URLs, track their usage, and enhance user experience with this efficient backend.
+Welcome to the URL Shortner Backend project! This repository contains the backend implementation for a URL shortening service. Simplify long URLs, track their usage, and enhance user experience with this efficient backend.
 
 ## Getting Started
 
