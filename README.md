@@ -3,6 +3,7 @@
 Welcome to the URL Shortner Backend project! This repository contains the backend implementation for a URL shortening service. Simplify long URLs, track their usage, and enhance user experience with this efficient backend.
 
 ## Getting Started
+ **LIVE_URL: `https://urlshortner.azurewebsites.net`**
 
 To get started with the Shortner Backend, follow these steps:
 
