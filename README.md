@@ -8,8 +8,7 @@ To get started with the Shortner Backend, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-  git clone https://github.com/your-username/shortner-backend.git](https://github.com/eCodeVoyager/Url-Shortner-Backend.git
-   ```
+   git clone https://github.com/eCodeVoyager/Url-Shortner-Backend.git
 
 2. **Install Dependencies:**
    ```bash
