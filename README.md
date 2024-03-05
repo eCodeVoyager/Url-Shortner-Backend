@@ -17,7 +17,7 @@ To get started with the Shortner Backend, follow these steps:
    ```
 
 3. **Configure the Environment:**
-   Create a `.env` file in the root directory and set the necessary environment variables. You may use the provided `.env.example` as a template.
+   Create a `.env` file in the root directory and set the necessary environment variables. {DATABSE_URI,SERVER_URI} Add then and set veriables in `.env` . 
 
 4. **Run the Application:**
    ```bash
